@@ -50,8 +50,8 @@ Move the script to the directory `~/.config/tilda/`.
 | Shortcut                         | Output                           |
 | -------------------------------- | -------------------------------- |
 | CAPSLOCK + { i, j, k, l }        | { Up, Left, Down, Right }        |
-| CAPSLOCK + ALT + { i, j, k, l }  | CTRL + { Up, Left, Down, Right } |
-| CAPSLOCK + CTRL + { i, j, k, l } | ALT + { Up, Left, Down, Right }  |
+| CAPSLOCK + CTRL + { i, j, k, l } | CTRL + { Up, Left, Down, Right } |
+| CAPSLOCK + ALT + { i, j, k, l }  | ALT + { Up, Left, Down, Right }  |
 | CAPSLOCK + { u, o }              | { Home, End }                    |
 | ALT + { i, k }                   | { PageUp, PageDown }             |
 | CAPSLOCK + { y, h }              | { PageUp, PageDown }             |
