@@ -122,4 +122,7 @@ CapsLock & h:: send, {PgDn}
 !i:: send, {PgUp}
 !k:: send, {PgDn}
 
+<^>!,:: send, {<}
+<^>!.:: send, {>}
+
 return
